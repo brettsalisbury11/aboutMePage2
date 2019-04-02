@@ -1,0 +1,36 @@
+.container > div {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  
+}
+
+html, body {
+box-sizing: border-box;
+height: 100%;
+padding: 10px;
+margin: 0px;
+}
+.header{
+  background-color: #100830;
+  font-family: 'Poppins', sans-serif;	
+  color: #f1f3cd;
+  padding-right: -360px;
+  font-size: 3em;
+  
+}
+body{
+  background-image: url(Untitled-1.jpg);
+}
+menu{
+  background-color: aliceblue;
+  font-size: 25x;
+}
+p{
+  padding-left: 60px;
+}
+.info{
+  font-size: 30px;
+  padding-left: 340px;
+
+}
